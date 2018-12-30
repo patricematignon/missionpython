@@ -9,6 +9,8 @@ Images by Rafael Pimenta
 You can use these assets to make your own Python games, provided that you credit the source and that you do not sell or otherwise make money from your games.
 
 To find out more about the book, visit:
+https://nostarch.com/missionpython
+or
 http://www.sean.co.uk/books/mission-python/
 
 For information on Sean's other books, including Cool Scratch Projects in Easy Steps and Raspberry Pi For Dummies, visit:
