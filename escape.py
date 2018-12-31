@@ -4,11 +4,16 @@
 # Typed in by REMI MATIGNON
 
 
-###############
-## VARIABLES ##
-###############
+#############
+# VARIABLES #
+#############
 
-WIDTH = 800 #window size
+WIDTH = 800  # window size
 HEIGHT = 800
 
-#PLAYER variables
+# PLAYER variables
+player_x = 600
+plasyer_y = 350
+
+def draw():
+    screen.blit(images.backdrop, (0, 0))
